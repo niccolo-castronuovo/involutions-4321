@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below."
+title: "Companion code for: Involutions avoiding 4321 and another pattern of length four"
+type: software
+license: MIT
+authors:
+  - family-names: Barnabei
+    given-names: Marilena
+    orcid: "https://orcid.org/0000-0001-9682-3834"
+  - family-names: Castronuovo
+    given-names: Niccolò
+    orcid: "https://orcid.org/0000-0002-1054-0161"
+  - family-names: Silimbani
+    given-names: Matteo
+    orcid: "https://orcid.org/0000-0002-6617-2433"
+preferred-citation:
+  type: unpublished
+  title: "Involutions avoiding 4321 and another pattern of length four"
+  authors:
+    - family-names: Barnabei
+      given-names: Marilena
+    - family-names: Castronuovo
+      given-names: Niccolò
+    - family-names: Silimbani
+      given-names: Matteo
+  year: 2026
